@@ -1,4 +1,4 @@
-👋 Hi, I'm @aliaksparkh!
+👋 Hi, I'm Alex
 Welcome to my GitHub profile! Here you'll find a collection of my best data analysis projects. 
 I'm passionate about uncovering insights from data and continually expanding my skills in this exciting field.
 
@@ -10,11 +10,9 @@ Data Visualization: Creating compelling visualizations to communicate findings.
 Python: Enhancing my programming skills to manipulate, analyze, and visualize data efficiently.
 Pandas: Leveraging this powerful library for data manipulation and analysis.
 
-💞️ Collaboration
-I'm looking to collaborate on data analysis projects.
+💞️ I'm looking to collaborate on data analysis projects.
  
-📫 How to Reach Me
-Feel free to reach out to me via:
+📫 Feel free to reach out to me via:
 
 LinkedIn: https://www.linkedin.com/in/aliaksandr-parkhomenka-68a97ba7/
 
