@@ -2,10 +2,10 @@
 Welcome to my GitHub profile! Here you'll find a collection of my best data analysis projects. 
 I'm passionate about uncovering insights from data and continually expanding my skills in this exciting field.
 
-👀 Interests
-Data Analysis: Exploring data to extract meaningful insights.
-Machine Learning: Applying algorithms to make predictions and automate decisions.
-Data Visualization: Creating compelling visualizations to communicate findings.
+👀 Interests  
+Data Analysis: Exploring data to extract meaningful insights.  
+Machine Learning: Applying algorithms to make predictions and automate decisions.  
+Data Visualization: Creating compelling visualizations to communicate findings.  
 🌱 Currently Learning
 Python: Enhancing my programming skills to manipulate, analyze, and visualize data efficiently.
 Pandas: Leveraging this powerful library for data manipulation and analysis.
