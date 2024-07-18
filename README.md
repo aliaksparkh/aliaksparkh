@@ -1,5 +1,5 @@
-👋 Hi, I'm Alex
-Welcome to my GitHub profile! Here you'll find a collection of my best data analysis projects. 
+👋 Hi, I'm Alex  
+Welcome to my GitHub profile! Here you'll find a collection of my best data analysis projects.   
 I'm passionate about uncovering insights from data and continually expanding my skills in this exciting field.
 
 👀 Interests  
