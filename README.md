@@ -10,10 +10,8 @@ I'm passionate about uncovering insights from data and continually expanding my 
 - Data Analysis: Exploring data to extract meaningful insights.  
 - Data Visualization: Creating compelling visualizations to communicate findings.  
 - SQL (BigQuery, PostgreSQL)
-  
-🌱 Currently Learning
-- Python: Enhancing my programming skills to manipulate, analyze, and visualize data efficiently.  
-- Pandas: Leveraging this powerful library for data manipulation and analysis.
+- Python: to manipulate, analyze, and visualize data efficiently.  
+
 
 ### Languages & Tools for Data Analysis 📊
 
